@@ -1,0 +1,9 @@
+br/com/vr/DesafioVrApplication.class
+br/com/vr/controller/PedidoResource.class
+br/com/vr/repository/PedidoRepository.class
+br/com/vr/model/Status.class
+br/com/vr/model/PedidoListarDto.class
+br/com/vr/model/VencimentoPedidoDto.class
+br/com/vr/model/ServiceResponse.class
+br/com/vr/config/SwaggerConfig.class
+br/com/vr/model/PedidoVO.class

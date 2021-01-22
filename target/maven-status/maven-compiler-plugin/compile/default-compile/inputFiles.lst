@@ -1,0 +1,9 @@
+/Users/julioescobar/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/DesafioVR/src/main/java/br/com/vr/DesafioVrApplication.java
+/Users/julioescobar/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/DesafioVR/src/main/java/br/com/vr/model/ServiceResponse.java
+/Users/julioescobar/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/DesafioVR/src/main/java/br/com/vr/controller/PedidoResource.java
+/Users/julioescobar/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/DesafioVR/src/main/java/br/com/vr/model/Status.java
+/Users/julioescobar/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/DesafioVR/src/main/java/br/com/vr/config/SwaggerConfig.java
+/Users/julioescobar/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/DesafioVR/src/main/java/br/com/vr/repository/PedidoRepository.java
+/Users/julioescobar/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/DesafioVR/src/main/java/br/com/vr/model/PedidoVO.java
+/Users/julioescobar/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/DesafioVR/src/main/java/br/com/vr/model/VencimentoPedidoDto.java
+/Users/julioescobar/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/DesafioVR/src/main/java/br/com/vr/model/PedidoListarDto.java
